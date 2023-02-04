@@ -1,1 +1,1 @@
-print("welcome to python lab")
+print("welcome to python")
